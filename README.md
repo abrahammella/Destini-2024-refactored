@@ -1,1 +1,8 @@
-# Destini-2024-refactored
+
+
+
+#  Destini
+
+## Goal
+
+Doing a refactor for the Project Destini for TheAppBrewery apps.
